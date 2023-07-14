@@ -1,13 +1,16 @@
 import Inverter from './src/controller/inverter';
 import Panel from './src/controller/panel';
 import Roof from './src/controller/roof';
+import readline from 'readline-sync'
+
 
 // const
-const totalPower = 4.5; //Kw
-const panelPower = 500; //w
+const totalPower = parseFloat(readline.question('Digite a potencia total do sistema (em kW): ')); //4.5; //Kw
+const panelPower = 550; //w
 const panelLength = 1.95;
 const panelWidth = 1.1;
 const panelsPerInverte = 4;
+
 
 // Entity
 const panel = new Panel(panelPower, panelLength, panelWidth)
