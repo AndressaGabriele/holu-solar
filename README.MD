@@ -1,6 +1,5 @@
 # Desafio Holu
 
-> Processo seletivo proposto pela empresa Holu, a empresa Holu é uma grande empresa especialista em soluções de energia solar. 
 
 ### Descrição
 
