@@ -1,6 +1,6 @@
 # Desafio Holu
 ---
-![imagem do terminal em execução](./src/assets/Readme.png)
+![imagem do terminal](./src/assets/Readme.png)
 ---
 ### Descrição
 
