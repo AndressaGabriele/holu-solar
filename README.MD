@@ -1,6 +1,7 @@
 # Desafio Holu
-
-
+---
+![imagem do terminal em execução](./src/assets/Readme.png)
+---
 ### Descrição
 
 - Atualmente no mercado de energia solar fotovoltaica para consumidores residenciais (B2C) frequentemente estão lidando com problemas de viabilizar e dimensionar sistemas solares adequadamente, pois nem todos possui condições ideiais para receber um sistema solar em seu telhado. Com isso teremos que ter uma solução para atender melhor todos os clientes. 
