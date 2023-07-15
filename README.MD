@@ -2,7 +2,7 @@
 ---
 ![imagem do terminal](./src/assets/Readme.png)
 ---
-### Descrição
+### Descrição:
 
 - Atualmente no mercado de energia solar fotovoltaica para consumidores residenciais (B2C) frequentemente estão lidando com problemas de viabilizar e dimensionar sistemas solares adequadamente, pois nem todos possui condições ideiais para receber um sistema solar em seu telhado. Com isso teremos que ter uma solução para atender melhor todos os clientes. 
 
@@ -25,21 +25,31 @@
 
 ## Tech utilizadas: 
 
-- NodeJs
+- Node.js
 - JavaScript
-- Babel para compilar
+- Babel
 - Git e GitHub
+- Jasmine
+- readline-sync
 
 ## Dificuldades:
 
 
-## Soluções 
+## Soluções: 
+
+- OOP
+- Input para power
+- Testes unitarios
 
 ## Com rodar este projeto:
 
 1. Git Clone 
 2. Em seu terminal instale as dependências utilizando `npm install`
 3. Logo apos a conclusão, nesse mesmo terminal rode `npm start`
+
+## Opções de testes unitarios:
+
+1. `npm run test`
 
 ---
 > Desde já agradeço ao Matheus pela oportunidade em estar participando desse processo seletivo, foi de grande conhecimento e experiência, trouxe consigo excelentes aprendizados. 
