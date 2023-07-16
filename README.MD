@@ -23,7 +23,7 @@
 - [x] Considere que o parâmetro recebido será de **4,5 kW**. Sobre o painel solar, considere a potência será de **550W**, o comprimento e largura do painel utilizado será de **1,95m x 1,1 m.** A estrutura será instalada em um telhado feito a base de **laje**.
 
 
-## Tech utilizadas: 
+## 🖥 Tech utilizadas: 
 
 - Node.js
 - JavaScript
@@ -34,12 +34,21 @@
 
 ## Dificuldades:
 
+1. Compilar o projeto, para aplicar estruturas es2015, conforme o avanço das tecnologias, as vezes isso depende de compiladores;
+
+2. Estruturas semanticas, comp. reutilizaveis, codigo limpo e utilizar sempre boas praticas;
+
+3. Trazer maneiras para que o usuario se comunique com o script;
+
+4. Garantir a funcionabilidade dos codigos de forma individual, em um ambiente OOP sabemos que é usualmente a nível de classes e a mínima unidade de testes inclui construtores e destrutores;
 
 ## Soluções: 
 
-- OOP
-- Input para power
-- Testes unitarios
+1. OOP (Object-Oriented Programming)
+
+2. Implementação parseFloat `readline.question`
+
+3. Testes unitarios utilizando Jasmine
 
 ## Com rodar este projeto:
 
@@ -52,5 +61,5 @@
 1. `npm run test`
 
 ---
-> Desde já agradeço ao Matheus pela oportunidade em estar participando desse processo seletivo, foi de grande conhecimento e experiência, trouxe consigo excelentes aprendizados. 
+> Desde já agradeço a equipe Holu pela oportunidade em estar participando desse processo seletivo, foi de grande conhecimento e experiência, trouxe consigo excelentes aprendizados. Fico no aguardo do feedback 
 
