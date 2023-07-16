@@ -44,11 +44,13 @@
 
 ## Soluções: 
 
-1. OOP (Object-Oriented Programming)
+1. Para trazer as estruturas mais recentes do javascript como classes, variáveis de instância, utilizai o Babel.
 
-2. Implementação parseFloat `readline.question`
+2. OOP (Object-Oriented Programming)
 
-3. Testes unitarios utilizando Jasmine
+3. Implementação parseFloat `readline.question`
+
+4. Testes unitarios utilizando Jasmine
 
 ## Com rodar este projeto:
 
