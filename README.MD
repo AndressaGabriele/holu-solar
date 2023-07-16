@@ -52,13 +52,14 @@
 
 4. Testes unitarios utilizando Jasmine
 
-## Com rodar este projeto:
+## Instalação:
 
-1. Git Clone 
+1. Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em seu sistema.
+2. Git Clone 
 2. Em seu terminal instale as dependências utilizando `npm install`
 3. Logo apos a conclusão, nesse mesmo terminal rode `npm start`
 
-## Opções de testes unitarios:
+## Testes unitarios:
 
 1. `npm run test`
 
