@@ -1,6 +1,6 @@
 # Desafio Holu
 ---
-![imagem do terminal](./src/assets/Readme.png)
+![imagem do terminal EXECUTANDO](./src/assets/Readme.png)
 ---
 ### Descrição:
 
@@ -34,10 +34,11 @@
 
 ## Dificuldades:
 
+1. Usar a sintaxe mais recente, transpilar utilizando babel
 
 ## Soluções: 
 
-1. Para trazer as estruturas mais recentes do javascript como classes, variáveis de instância, utiliza o Babel.
+1. Para trazer as SINTAXES mais recentes do javascript como classes, variáveis de instância, utiliza o Babel.
 
 2. OOP (Object-Oriented Programming)
 
