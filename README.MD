@@ -1,6 +1,6 @@
 # Desafio Holu
 ---
-![imagem do terminal](./src/assets/Readme.png)
+![imagem do terminal EXECUTANDO](./src/assets/Readme.png)
 ---
 ### Descrição:
 
@@ -34,31 +34,26 @@
 
 ## Dificuldades:
 
-1. Compilar o projeto, para aplicar estruturas es2015, conforme o avanço das tecnologias, as vezes isso depende de compiladores;
-
-2. Estruturas semanticas, comp. reutilizaveis, codigo limpo e utilizar sempre boas praticas;
-
-3. Trazer maneiras para que o usuario se comunique com o script;
-
-4. Garantir a funcionabilidade dos codigos de forma individual, em um ambiente OOP sabemos que é usualmente a nível de classes e a mínima unidade de testes inclui construtores e destrutores;
+1. Usar a sintaxe mais recente, transpilar utilizando babel
 
 ## Soluções: 
 
-1. Para trazer as estruturas mais recentes do javascript como classes, variáveis de instância, utilizai o Babel.
+1. Para trazer as SINTAXES mais recentes do javascript como classes, variáveis de instância, utiliza o Babel.
 
 2. OOP (Object-Oriented Programming)
 
-3. Implementação parseFloat `readline.question`
+3. Implementação `readline.question`
 
 4. Testes unitarios utilizando Jasmine
 
-## Com rodar este projeto:
+## Instalação:
 
-1. Git Clone 
+1. Certifique-se de ter o Node.js e o npm (Node Package Manager) instalados em seu sistema.
+2. Git Clone 
 2. Em seu terminal instale as dependências utilizando `npm install`
 3. Logo apos a conclusão, nesse mesmo terminal rode `npm start`
 
-## Opções de testes unitarios:
+## Testes unitarios:
 
 1. `npm run test`
 
