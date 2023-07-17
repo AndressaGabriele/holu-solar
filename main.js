@@ -4,9 +4,9 @@ import Roof from './src/controller/roof';
 import readline from 'readline-sync'
 
 
-// const
+// Values
 const totalPower = parseFloat(readline.question('Digite a potencia total do sistema (em kW): ')); //4.5; //Kw
-const panelPower = 550; //w
+const panelPower = parseFloat(readline.question('Digite a potencia do painel (em W): ')); //550; //w
 const panelLength = 1.95;
 const panelWidth = 1.1;
 const panelsPerInverte = 4;
@@ -25,6 +25,7 @@ const roofArea = roof.calculateRoofArea(numPanels).toFixed(2);
 
 // Output
 console.log('Quantidade de placas: ', numPanels)
+console.log('Potencia do painel: ', panelPower, 'W')
 console.log('Quantidade de inversores: ', numInterter)
 console.log('Comprimento de estrutura necessária:', roofLength, 'm');
 console.log('Área útil necessária:', roofArea, 'm²');

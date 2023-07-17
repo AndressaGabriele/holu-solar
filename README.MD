@@ -34,21 +34,14 @@
 
 ## Dificuldades:
 
-1. Compilar o projeto, para aplicar estruturas es2015, conforme o avanço das tecnologias, as vezes isso depende de compiladores;
-
-2. Estruturas semanticas, comp. reutilizaveis, codigo limpo e utilizar sempre boas praticas;
-
-3. Trazer maneiras para que o usuario se comunique com o script;
-
-4. Garantir a funcionabilidade dos codigos de forma individual, em um ambiente OOP sabemos que é usualmente a nível de classes e a mínima unidade de testes inclui construtores e destrutores;
 
 ## Soluções: 
 
-1. Para trazer as estruturas mais recentes do javascript como classes, variáveis de instância, utilizai o Babel.
+1. Para trazer as estruturas mais recentes do javascript como classes, variáveis de instância, utiliza o Babel.
 
 2. OOP (Object-Oriented Programming)
 
-3. Implementação parseFloat `readline.question`
+3. Implementação `readline.question`
 
 4. Testes unitarios utilizando Jasmine
 
